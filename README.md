@@ -42,7 +42,8 @@
 ## 🏢 SaaS/Hosted Platforms
 
 | Platform 🚀 | Description 📝 | Market Size / Valuation / Revenue 💰 | Starting Pricing 🏷️ | Free Tier / Free Trial Limits 🎁 |
-| :--- | :--- | :--- | :--- | :--- | | **[Prisma Cloud](https://www.paloaltonetworks.com/prisma/cloud)** | Palo Alto CNAPP with strong container & Kubernetes security modules across multi-cloud environments. | **$85B+ Market Cap** (Palo Alto Networks) | $90 / credit (~$300/host/yr) | 30-day free trial with full feature access |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Prisma Cloud](https://www.paloaltonetworks.com/prisma/cloud)** | Palo Alto CNAPP with strong container & Kubernetes security modules across multi-cloud environments. | **$85B+ Market Cap** (Palo Alto Networks) | $90 / credit (~$300/host/yr) | 30-day free trial with full feature access |
 | **[Tenable Cloud Security](https://www.tenable.com/)** | Cloud & container exposure management, vulnerability scanning, and agentless container posture. | **$6B+ Market Cap** / ~$850M Rev | $2,270 / year (Tenable.io baseline) | 30-day free trial (up to 16 IP assets) |
 | **[JFrog Xray](https://jfrog.com/xray/)** | SCA & container registry scanning integrated into JFrog Artifactory software supply chain. | **$3.5B+ Market Cap** / ~$400M Rev | $99 / month (JFrog Pro Cloud) | Free tier: 2,000 build mins/mo & 20GB storage |
 | **[Sysdig Secure](https://sysdig.com/)** | Cloud-native container runtime detection (Falco-based), image scanning & KSPM. | **$2.5B Valuation** / ~$150M ARR | $1.20 / node / day ($36/mo/node) | 30-day free trial (up to 50 nodes) |
