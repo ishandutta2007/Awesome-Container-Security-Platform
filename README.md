@@ -59,7 +59,7 @@
 
 ## 🔓 Open-Source GitHub Projects
 
-Below are top open-source projects for container security, image scanning, SBOM generation, and runtime protection, sorted by GitHub Star count 🌟.
+Below are top open-source projects for container security, image scanning, SBOM generation, and runtime protection, sorted by GitHub Stars_Count 🌟.
 
 - **[Trivy](https://github.com/aquasecurity/trivy)** [![Stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white)](https://github.com/aquasecurity/trivy/stargazers)  
   Comprehensive, all-in-one security scanner for container images, file systems, Git repos, Kubernetes, IaC, secrets, and SBOM (by Aqua Security).
